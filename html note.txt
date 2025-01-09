@@ -1,0 +1,4 @@
+*<!DOCTYPE html > SO The doc type tells the browser what type of document it is
+*<meta> : They are use to describe a page content and they don't appear in the body
+ of the web page anywhere , it only describe some stuffs about the page
+*Attributes describes properties of the tage   
